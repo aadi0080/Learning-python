@@ -23,3 +23,5 @@ print(round(3.143545458340 , 4))
 # abs()                 absolute value                          abs(-8) 
 print(abs(-8))
 # pow()                 raise a number to a power               pow(2, 5)
+
+print(pow(2, 5))
